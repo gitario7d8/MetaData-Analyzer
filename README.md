@@ -24,3 +24,8 @@ Użytkownik obsługuje aplikację poprzez graficzny interfejs.
 - Wyniki są wyświetlane na ekranie i dostępne do dalszego wykorzystania (zapis, kopiowanie).  
 
 Cała obsługa odbywa się intuicyjnie i sprowadza się do kilku prostych kroków: wybierz pliki → przeanalizuj → zapisz lub skopiuj wynik.
+
+
+
+
+Terażniejsza Wersja: v0.0.0
