@@ -28,4 +28,9 @@ Cała obsługa odbywa się intuicyjnie i sprowadza się do kilku prostych krokó
 
 
 
+
+
+
+
+
 Terażniejsza Wersja: v0.0.0
