@@ -36,3 +36,14 @@ Cała obsługa odbywa się intuicyjnie i sprowadza się do kilku prostych krokó
  Terażniejsza Wersja: ver.0.00
 
 ===============================
+
+
+
+===============================
+  ver.0.10 Zastosowano Zasady Clean Code
+  1.SRP (Single Responsibility Principle)
+  2️. DRY (Don’t Repeat Yourself)
+  3.  Meaningful Names
+  4.   KISS (Keep It Simple, Stupid)
+  5.    Small Functions
+===============================
