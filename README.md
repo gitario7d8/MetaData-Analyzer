@@ -38,7 +38,6 @@ Cała obsługa odbywa się intuicyjnie i sprowadza się do kilku prostych krokó
 ===============================
 
 
-
 ===============================
   ver.0.10 Zastosowano Zasady Clean Code
   1.SRP (Single Responsibility Principle)
@@ -46,4 +45,4 @@ Cała obsługa odbywa się intuicyjnie i sprowadza się do kilku prostych krokó
   3.  Meaningful Names
   4.   KISS (Keep It Simple, Stupid)
   5.    Small Functions
-===============================
+===============================*
